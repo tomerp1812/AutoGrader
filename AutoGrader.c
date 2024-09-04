@@ -1,5 +1,3 @@
-//Tomer Peisikov 209549542
-
 #include "string.h"
 #include "stdlib.h"
 #include <unistd.h>
